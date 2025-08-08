@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-ExtraLight.woff2') format('woff2'),
+        url('web/Piatnitsa-ExtraLight.woff') format('woff'),
+        url('ttf/Piatnitsa-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-Light.woff2') format('woff2'),
+        url('web/Piatnitsa-Light.woff') format('woff'),
+        url('ttf/Piatnitsa-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-Regular.woff2') format('woff2'),
+        url('web/Piatnitsa-Regular.woff') format('woff'),
+        url('ttf/Piatnitsa-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-Medium.woff2') format('woff2'),
+        url('web/Piatnitsa-Medium.woff') format('woff'),
+        url('ttf/Piatnitsa-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-SemiBold.woff2') format('woff2'),
+        url('web/Piatnitsa-SemiBold.woff') format('woff'),
+        url('ttf/Piatnitsa-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-Bold.woff2') format('woff2'),
+        url('web/Piatnitsa-Bold.woff') format('woff'),
+        url('ttf/Piatnitsa-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-ExtraBold.woff2') format('woff2'),
+        url('web/Piatnitsa-ExtraBold.woff') format('woff'),
+        url('ttf/Piatnitsa-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-Black.woff2') format('woff2'),
+        url('web/Piatnitsa-Black.woff') format('woff'),
+        url('ttf/Piatnitsa-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-ExtraLightItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-ExtraLightItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-LightItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-LightItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-Italic.woff2') format('woff2'),
+        url('web/Piatnitsa-Italic.woff') format('woff'),
+        url('ttf/Piatnitsa-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-MediumItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-MediumItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-SemiBoldItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-SemiBoldItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-BoldItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-BoldItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Piatnitsa';
+    src: url('web/Piatnitsa-BlackItalic.woff2') format('woff2'),
+        url('web/Piatnitsa-BlackItalic.woff') format('woff'),
+        url('ttf/Piatnitsa-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
